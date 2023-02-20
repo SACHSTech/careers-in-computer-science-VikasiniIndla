@@ -89,8 +89,34 @@ Other first year courses include:
 * MATH 116 Calculus 1 for Engineering
 * MATH 118 Calculus 2 For Engineering
 
+### **_Co-op Requirement_**
+Co-op:
+
+Full-time Software Development Engineer at Amazon Robotics
+
+Location:
+
+Amazon Downtown Toronto office next to Union Station
+
+About the Companies Robotics:
+
+Amazon Robotics is aiming to create smarter, faster, and more consistent robots through automation to enhance the customers experience with the service. They use and research various technologies including autonomous mobile robots, sophisticated control software, language perception, power management, computer vision, depth sensing, machine learning, object recognition, and semantic understanding of commands. They focus on researching and developing their service in new areas through the use of new technology. 
 
 
+Description:
+
+At the building, they work on infrastructure issues and design to enable more movement and efficiency in the workcells. The team works on advancing the workcells by working with sensors and other hardware. Amazon Robotics in Toronto is also working on solutions to the issues in the workcells using software. Co-op students will support in testing various Amazon Software
+
+
+Requirements:
+* Currently enrolled in college/university for Computer Science, Engineering, or other similar degree
+* Have one semester, term or quarter to complete after the co-op has ended
+* Available to work 40 hours per week for a year
+* Basic knowledge or understanding of AWS and other Cloud/Web Technologies, schedulers, workflows, state machines, multi-threading, and networking protocols
+* Creative and have problem solving skills 
+Have an interest for Robotics and taking part in clubs
+
+To apply or find more information about this co-op opportunity, [click here](https://www.google.com/search?q=robotics+coop+program&rlz=1C5CHFA_enCA1000CA1000&oq=robotics+coop+program&aqs=chrome..69i57.11584j0j4&sourceid=chrome&ie=UTF-8&ibp=htl;jobs&sa=X&ved=2ahUKEwiGz6jwzKT9AhWEkmoFHVwYAVEQkd0GegQIEhAB#fpstate=tldetail&htivrt=jobs&htiq=robotics+coop+program&htidocid=hrN-t5qpCBoAAAAAAAAAAA%3D%3D)
 
 
 
