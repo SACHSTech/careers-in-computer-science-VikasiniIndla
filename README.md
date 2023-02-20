@@ -133,7 +133,22 @@ To apply or find more information about this co-op opportunity, [click here](htt
     * Robotics: Kinematics and Mathematical Foundations
     * Robotics Foundations I - Robot Modeling
     * Robotics Foundations II - Robot Control
+### **_Books and Articles_**
+Reading books and articles on robotics will help improve knowledge on the subject
 
+Some books include:
+* Fundamentals of Robotics Engineering by Harry H. Poole
+* Industrial robots and cobots by Michal Gurgul
+* Probabilistic Robotics by Sebastian Thrun and Wolfram Burgard
+* The updated modern Robotic by Ernest Steinbeck
+* The fourth industrial revolution by Stephen Haag
+
+Register for updates on technology on websites and blogs on the following websites:
+* [Robohub](https://robohub.org/)
+* [Robotics Business Review](https://www.roboticsbusinessreview.com/ )
+* [IEEE Spectrum](https://spectrum.ieee.org/)
+* [Robotics Research News](https://www.sciencedaily.com/news/computers_math/robotics/)
+* [Medium](https://medium.com/)
 
 ## **1.4 Real Jobs**
 ### **_Entry Level Job_**
