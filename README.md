@@ -59,6 +59,36 @@ Six M/U courses must be submitted, which include:
 * One Additional M/U Course
 
 NOTE: The average for each course must be a minimum of 70%
+### **_First Year Program Courses_**
+The following are some of the first year courses with a description:
+* **MTE 100 Mechatronics Engineering**
+
+    The course introduces mechatronics engineering and engineering in general. It will cover topics including the design process, project planning, data presentation, measurements, error, control logic, sensors and actuators. Skills in computer-aided drawing (CAD) are taught to create graphic multi-view, isometric, oblique, and perspective designs. The course also helps develop professional skills such as résumé skills, interview skills and helps prepare for co-op. There will be a group design project/competition along with the materials from lectures⋅⋅ 
+* **MTE 121 Digital Computation**
+
+    The course introduces electronic digital computers, their organization in hardware and software, and numerical algorithms for fundamental scientific calculations
+* **MTE 100B Seminar**
+
+    The course discusses the faculty, university, technical societies, as well as the structure of the mechatronics engineering curriculum.
+* **MTE 111 Structure and Properties of Materials**
+
+    The course discusses the relevance of materials to engineering such as the relationships between macroscopic physical properties (mechanical, photonic, thermal, electrical, and magnetic properties) and microscopic causes(electronic and atomic structures, atomic bonding, crystal structure, and microstructure). The course also describes the differences in macroscopic physical properties of metals, polymers, ceramics, semiconductors, and composite materials. 
+* **MTE 119 Statics**
+
+    The course covers the concepts of mechanics, vectors, statistics of particles, rigid bodies, force systems, equilibrium of rigid bodies, analysis of trusses and frames. The concept of distributed forces, centroids, moments of inertia, friction, internal shear and bending moments in beams are discussed.
+* **MTE 120 Circuits**
+
+    The course covers the basics of electromagnetic theory, magnetic, electric, DC and AC circuit analysis. In the topic of transistors, regions of operation and single-transistor amplifiers are discussed. 
+* **MTE 140 Algorithms and Data Structures**
+
+    This course highlights structured software design data structures, abstract data types, recursive algorithms, algorithm analysis and design, sorting and searching, hashing, and problem-solving strategies
+
+Other first year courses include:
+* CHE 102 Chemistry for Engineers
+* MATH 115 Linear Algebra for Engineering
+* MATH 116 Calculus 1 for Engineering
+* MATH 118 Calculus 2 For Engineering
+
 
 
 
