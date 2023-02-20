@@ -118,5 +118,43 @@ Have an interest for Robotics and taking part in clubs
 
 To apply or find more information about this co-op opportunity, [click here](https://www.google.com/search?q=robotics+coop+program&rlz=1C5CHFA_enCA1000CA1000&oq=robotics+coop+program&aqs=chrome..69i57.11584j0j4&sourceid=chrome&ie=UTF-8&ibp=htl;jobs&sa=X&ved=2ahUKEwiGz6jwzKT9AhWEkmoFHVwYAVEQkd0GegQIEhAB#fpstate=tldetail&htivrt=jobs&htiq=robotics+coop+program&htidocid=hrN-t5qpCBoAAAAAAAAAAA%3D%3D)
 
+## **1.4 Real Jobs**
+### **_Entry Level Job_**
+Company: Swap Robotics
+
+Salary: $70 000 - $75 000 per year
+
+City: Kitchener, Ontario
+
+Job Description:
+
+Swap Robotics creates electric grass cutting and snow removal robots. In this full-time job, you will be working with the Autonomy team and develop a mobile electric robot. You will mainly focus on the software side, but may also take part in the mechanical and electric parts of the project. Also, you will help build a relationship with other vendors and suppliers. 
+
+
+Responsibilities:
+* Design and develop high quality code
+* Work with system architects to ensure the code meets standards
+* Interact with other teams for systems integration
+* Develop foundational software to support control behaviours
+* Develop robotic arm controllers
+* Verify the control algorithm in a simulation
+
+Additional Skills/Experience:
+* B.Sc. or graduate degree in computer science, engineering or related
+* 1+ years of experience with software development and developing supporting software
+* Computer Science fundamentals such as algorithm designing, problem solving, and analysis
+* Experience developing software in core Python or C++ with Object Oriented Programming
+* Expertise in C++ (C++11, 14)
+Experience with Linux-based operating systems
+* Passionate, self-starter, cross-functional, self-organizer
+* Adaptability to priority changes
+* Knowledge of Agile Project Management 
+* Knowledge of scrum environments
+* Self-motivated and able to solve problems independently
+* Communication skills
+* Able to work in a team environment
+
+[Click here](https://ca.indeed.com/jobs?q=Robotics+Control+Software+Engineer&l=Kitchener%2C+ON&vjk=3c08361634c7d3f7) to apply or find more information about this job
+
 
 
