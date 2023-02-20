@@ -27,5 +27,14 @@ Robotics engineers prototype, create, program and test machines. The machines cr
 |Collaboration|When working with others it is important to accept constructive criticism to improve the robot or project|
 |Learning|Technology is constantly developing and growing, so it is important to learn and keep up with the latest tech in a career which incorporates both technology and engineering |
 |Problem-Solving|With a lot of building and programming robots, there will be issues and errors. Having problem-solving skills will help troubleshoot and fix the errors|
+### **_Required Educations_**
+Any of the follower Bachelor Degrees are applicable:
+* Bachelor of Engineering
+* Bachelor of Applied Sciences
+* Bachelor of Science
+* Bachelor of Computer Science
+* Bachelor of Mathematics
+### **_Salary Range_**
+The salary range for robotics engineers is 50K to 100K CAD
 
 
