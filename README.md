@@ -156,5 +156,27 @@ Experience with Linux-based operating systems
 
 [Click here](https://ca.indeed.com/jobs?q=Robotics+Control+Software+Engineer&l=Kitchener%2C+ON&vjk=3c08361634c7d3f7) to apply or find more information about this job
 
+### **_Senior Level Job_**
+Company: Axion Group Inc
+
+Salary: $106 000 per year
+
+City: Greater Toronto Area
+
+Job Description: 
+
+A part of this job you will oversee automation, process development and optimization by providing support and guidance. You will work with Logic, Robotic programming (Fanuc, Wittmann, Ranger, Yushin) and Vision systems. Also, you will assist the design, build automation & assembly cells such as include vision systems. Working with teams, you will identify the business requirements, functional design, process design, prototyping testing, defining support procedures. You will play a role in diagnose and troubleshoot technical issues related to programming and automation cells
+
+Additional Skills/Experience:
+* 5 years experience in PLC programming, robot programming, building and implementing automation cells within the manufacturing environment
+* Post-secondary education in mechanical engineering, engineering or related
+* Experience with machine and automation integration
+* Experience in software such as AutoCAD, Solid Works, MS Office
+* Ability to convey information to members of the team, co-workers, clients, suppliers and other organizations
+* Ability to keep projects on time and in budget 
+* Ability to think strategically 
+* Problem-solving skill and able to work effectively in a team or independently
+* Organizational skills and able to multitask
+* Able to travel to US and Mexico
 
 
