@@ -155,7 +155,36 @@ Experience with Linux-based operating systems
 * Able to work in a team environment
 
 [Click here](https://ca.indeed.com/jobs?q=Robotics+Control+Software+Engineer&l=Kitchener%2C+ON&vjk=3c08361634c7d3f7) to apply or find more information about this job
+### **_Mid Level Job_**
+Company: The Headhunters
 
+Salary: $80 000 - $110 000 per year
+
+City: Dundas, Ontario
+
+Job Description: 
+
+Your job will be to develop and test software, hardware and robotic products to be used in minimally invasive surgery (MIS). You will work on products with augmented reality, robotics, biocompatible materials, and software development. Your role in this job is to assist in the development of new modules, review code, develop a robotic arm, lead the automated testing platform for the arms software, prototyping the hardware and software and to identify risks and opportunities. 
+
+Additional Skills/Experience:
+
+* 4+ years experience in engineering
+* Masters or bachelor’s degree in Electrical, Software, Mechanical, Mechatronics, Computer Engineering or Computer science related
+3+ years of experience in object-oriented programming 
+* Experience with Robot Operating Systems- ROS
+* Experience with proximity sensors, odometry sensors, motors
+* Experience with microcontrollers/microprocessors and automated software testing
+* Experience with CAD 
+* Have attention to detail and accuracy
+* Prior experience working with a robotic arm 
+* Experience with multi-threading/multi-processing and inter process communication (IPC)
+* Knowledge of machine learning 
+* An understanding of some foundational topics in robotics (kinematics, control systems, motion planning, motor control, computer vision)
+* Written and Oral communication skills
+* Presentation skills
+
+
+[Click here](https://www.glassdoor.ca/Job/robotics-software-engineer-ros-jobs-SRCH_KO0,30.htm) to apply or find more information about this job
 ### **_Senior Level Job_**
 Company: Axion Group Inc
 
@@ -179,4 +208,5 @@ Additional Skills/Experience:
 * Organizational skills and able to multitask
 * Able to travel to US and Mexico
 
+[Click here](https://ca.indeed.com/jobs?q=Robotics+Engineer&l=Toronto%2C+ON&from=career&vjk=555aee2d01432a05) to apply or find more information about this job
 
