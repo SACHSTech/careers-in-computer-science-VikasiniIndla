@@ -151,12 +151,37 @@ Register for updates on technology on websites and blogs on the following websit
 * [Medium](https://medium.com/)
 
 ### **_Robotics Competitions_**
-Here are a list of robotics competitions which robotic engineers can coach, mentor or judge to gain leadership, communication, problem-solving and robotics skills:
+Here are a list of robotics competitions which robotics engineers can coach, mentor or judge to gain leadership, communication, problem-solving and robotics skills:
 * [First Robotics Canada](https://www.firstroboticscanada.org/frc/)
 * [Engineering Robotics Competition](https://engineering.ontariotechu.ca/outreach/programming-for-teachers/robotics_competition/index.php)
 * [VEX Robotics Competition](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-VRC-22-8282.html#general-info)
 * [Canadian International Rover Challenge](https://circ.cstag.ca/)
 * [CRC Robotics](https://robo-crc.ca/)
+### **_Co-op/Internship_**
+Co-op/Internship:
+
+Robotic Process Automation Co-op/Intern for Nokia
+
+City: Ottawa
+
+Job Description:
+* You will be a part of Nokia’s Network Infrastructure which is working on bringing faster and more networks to people around the world through ambition, innovation and technical expertise. 
+* Develop robotic process automation BOTs using RPA platform
+* Test and troubleshoot
+* Evaluate and improve existing RPA BOTs
+* Develop and enhance RPA platform to support new requirements
+
+Requirements/Skills:
+* Ambition to continually learn, adapt, and grow
+* Have interest in getting involved and helping others
+* Determining in finding the source of a problem and an effective solution
+* Listen actively and communicate ideas
+* Currently in a Bachelor's degree or diploma in engineering or related in a Canadian School 
+
+
+
+To apply or find more information about this co-op opportunity, [click here](https://ca.indeed.com/Co-Op-Student-Robotics-jobs?vjk=1a861a85c95cfdbe)
+
 
 
 ## **1.4 Real Jobs**
