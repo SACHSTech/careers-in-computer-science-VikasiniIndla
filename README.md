@@ -36,5 +36,13 @@ Any of the follower Bachelor Degrees are applicable:
 * Bachelor of Mathematics
 ### **_Salary Range_**
 The salary range for robotics engineers is 50K to 100K CAD
+## **1.2 Standard Education**
+### **_University and Program_**
+Undergraduate Mechatronics Engineering program at the University of Waterloo
+### **_Description of Program_**
+The Mechatronics Engineering program will guide and teach students to design computer-controlled electromechanical systems such as robots, smartphones, 3D printers, drones, vehicles, satellite systems and more. It focuses on developing proficiency in mechanical engineering, control engineering, electronics and computer science. The program takes five years to complete with co-op, earning a Bachelor of Applied Sciences. 
+
+
+
 
 
