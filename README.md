@@ -40,7 +40,25 @@ The salary range for robotics engineers is 50K to 100K CAD
 ### **_University and Program_**
 Undergraduate Mechatronics Engineering program at the University of Waterloo
 ### **_Description of Program_**
-The Mechatronics Engineering program will guide and teach students to design computer-controlled electromechanical systems such as robots, smartphones, 3D printers, drones, vehicles, satellite systems and more. It focuses on developing proficiency in mechanical engineering, control engineering, electronics and computer science. The program takes five years to complete with co-op, earning a Bachelor of Applied Sciences. 
+The Mechatronics Engineering program will guide and teach students to design computer-controlled electromechanical systems such as robots, smartphones, 3D printers, drones, vehicles, satellite systems and more. It focuses on developing proficiency in mechanical engineering, control engineering, electronics and computer science. The program takes five years to complete with co-op, earning a Bachelor of Applied Sciences.
+
+**Watch this video about the Mechancial and Mechatronics Program at the University of Waterloo**
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Ibs1KGgma_o
+" target="_blank"><img src="https://i.ytimg.com/vi/sazWAtZGRXU/maxresdefault.jpg" 
+alt="Click on the Following link" width="400" height="200" border="8" /></a>
+
+For more information, [Click Here](https://uwaterloo.ca/future-students/programs/mechatronics-engineering) to visit the official University of Waterloo website for the Mechatronics Engineering Program
+### **_Entrance Requirements_**
+The admission average for the program is high 80s and low 90s\
+Six M/U courses must be submitted, which include:
+* Advanced Functions
+* Calculus and Vectors
+* Chemistry
+* Physics
+* English (ENG4U)
+* One Additional M/U Course
+
+NOTE: The average for each course must be a minimum of 70%
 
 
 
