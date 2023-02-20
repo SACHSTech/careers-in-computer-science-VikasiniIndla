@@ -150,6 +150,15 @@ Register for updates on technology on websites and blogs on the following websit
 * [Robotics Research News](https://www.sciencedaily.com/news/computers_math/robotics/)
 * [Medium](https://medium.com/)
 
+### **_Robotics Competitions_**
+Here are a list of robotics competitions which robotic engineers can coach, mentor or judge to gain leadership, communication, problem-solving and robotics skills:
+* [First Robotics Canada](https://www.firstroboticscanada.org/frc/)
+* [Engineering Robotics Competition](https://engineering.ontariotechu.ca/outreach/programming-for-teachers/robotics_competition/index.php)
+* [VEX Robotics Competition](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-VRC-22-8282.html#general-info)
+* [Canadian International Rover Challenge](https://circ.cstag.ca/)
+* [CRC Robotics](https://robo-crc.ca/)
+
+
 ## **1.4 Real Jobs**
 ### **_Entry Level Job_**
 Company: Swap Robotics
