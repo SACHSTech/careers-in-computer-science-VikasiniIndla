@@ -118,6 +118,23 @@ Have an interest for Robotics and taking part in clubs
 
 To apply or find more information about this co-op opportunity, [click here](https://www.google.com/search?q=robotics+coop+program&rlz=1C5CHFA_enCA1000CA1000&oq=robotics+coop+program&aqs=chrome..69i57.11584j0j4&sourceid=chrome&ie=UTF-8&ibp=htl;jobs&sa=X&ved=2ahUKEwiGz6jwzKT9AhWEkmoFHVwYAVEQkd0GegQIEhAB#fpstate=tldetail&htivrt=jobs&htiq=robotics+coop+program&htidocid=hrN-t5qpCBoAAAAAAAAAAA%3D%3D)
 
+## **1.3 Experiential Learning**
+### **_Self Starter Projects_**
+* Buy robot building kits online or from any electronics stores.
+* Start with designing simple robots and move on to complex models as you gain more experience.
+* Develop projects like chess playing robot, cleaning robot, sensor guided robot, sports robot, pick and place robot and more 
+* Study the Robot Operating System to customize your projects. 
+* Enroll your robot in a local or large robotics competition. 
+* Enroll in any of following online course to develop and strengthen your robotics skills
+* Some online websites include [Coursera](https://www.coursera.org/courses?query=robotics%20engineer), [Udemy](https://www.udemy.com/), [Skill Share](https://www.skillshare.com/en/), [LinkedIn eLearning](https://www.linkedin.com/learning) and many more
+    * Modern Robotics: Mechanics, Planning, and Control Specialization
+    * Robotics: Mobility
+    * Self driving cars
+    * Robotics: Kinematics and Mathematical Foundations
+    * Robotics Foundations I - Robot Modeling
+    * Robotics Foundations II - Robot Control
+
+
 ## **1.4 Real Jobs**
 ### **_Entry Level Job_**
 Company: Swap Robotics
