@@ -1,8 +1,10 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=10086962&assignment_repo_type=AssignmentRepo)
 # Careers in Computer Science - Robotics Engineering
 ## **1.1 Basics**
+***
 ### **_Career Description_**
-Robotics engineers prototype, create, program and test machines. The machines created are used in the automotive, mining, space exploration manufacturing, servicing and other sectors. They work with engineers and project managers to develop the the design, maintain and fix the robots 
+Robotics engineers prototype, create, program and test machines. The machines created are used in the automotive, mining, space exploration manufacturing, servicing and other sectors. They work with engineers and project managers to develop the the design, maintain and fix the robots
+<img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://images.ctfassets.net/wp1lcwdav1p1/6AEApg42DVbYFikb9VqNKE/eb9fc3f2a0f3a8d5ab793d955df91f2a/Stocksy_txpe0666ad4RLr200_Large_2205470.jpg?w=1500&h=680&q=60&fit=fill&f=faces&fm=jpg&fl=progressive&auto=format%2Ccompress&dpr=1&w=1000&h=" width="300" height="136" border=5>
 
 ### **_Responsibilities_**
 * Create robotic systems
@@ -13,7 +15,10 @@ Robotics engineers prototype, create, program and test machines. The machines cr
 * Create a document explaining and describing the robots system
 * Troubleshoot issues in the hardware/software of the robot
 * Keep up with the developing environment around robotics and computer science
-### **_Technical Skills_**
+
+<img src="https://uploads-ssl.webflow.com/5f2b1efb0f881760ffdc5c96/607b1df44a2ff5fefa241045_howtobecomearoboticsengineer.png" width="300" height="160" border=5>
+
+### **_Technical Skills_** 
 |Skill  | Description | 
 |-------|:------------|
 | Math and Physics| To predict, calculate and troubleshoot issues robot movements, calculus, physics and algebra are needed. Some knowledge of math is also needed when programming |
@@ -30,17 +35,21 @@ Robotics engineers prototype, create, program and test machines. The machines cr
 ### **_Required Educations_**
 Any of the follower Bachelor Degrees are applicable:
 * Bachelor of Engineering
-* Bachelor of Applied Sciences
+* Bachelor of Applied Sciences        
 * Bachelor of Science
 * Bachelor of Computer Science
 * Bachelor of Mathematics
+
+<img src="https://xqsuperschool.org/rethinktogether/wp-content/uploads/sites/5/2021/05/pexels-pixabay-267885.jpg" width="250" height="150" border =5>
+
 ### **_Salary Range_**
 The salary range for robotics engineers is 50K to 100K CAD
 ## **1.2 Standard Education**
+***
 ### **_University and Program_**
 Undergraduate Mechatronics Engineering program at the University of Waterloo
 ### **_Description of Program_**
-The Mechatronics Engineering program will guide and teach students to design computer-controlled electromechanical systems such as robots, smartphones, 3D printers, drones, vehicles, satellite systems and more. It focuses on developing proficiency in mechanical engineering, control engineering, electronics and computer science. The program takes five years to complete with co-op, earning a Bachelor of Applied Sciences.
+The Mechatronics Engineering program will guide and teach students to design computer-controlled electromechanical systems such as robots, smartphones, 3D printers, drones, vehicles, satellite systems and more. It focuses on developing proficiency in mechanical engineering, control engineering, electronics and computer science. The program takes five years to complete, including co-op and earning a Bachelor of Applied Sciences.
 
 **Watch this video about the Mechancial and Mechatronics Program at the University of Waterloo**
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Ibs1KGgma_o
@@ -61,6 +70,9 @@ Six M/U courses must be submitted, which include:
 NOTE: The average for each course must be a minimum of 70%
 ### **_First Year Program Courses_**
 The following are some of the first year courses with a description:
+
+<img src="https://uwaterloo.ca/mechanical-mechatronics-engineering/sites/ca.mechanical-mechatronics-engineering/files/resize/styles/body-500px-wide/public/uploads/images/watimake_hands-on-750x251.jpg?itok=cRLHRBrS">
+
 * **MTE 100 Mechatronics Engineering**
 
     The course introduces mechatronics engineering and engineering in general. It will cover topics including the design process, project planning, data presentation, measurements, error, control logic, sensors and actuators. Skills in computer-aided drawing (CAD) are taught to create graphic multi-view, isometric, oblique, and perspective designs. The course also helps develop professional skills such as résumé skills, interview skills and helps prepare for co-op. There will be a group design project/competition along with the materials from lectures⋅⋅ 
@@ -100,6 +112,9 @@ Amazon Downtown Toronto office next to Union Station
 
 About the Companies Robotics:
 
+<img src="https://m.media-amazon.com/images/G/15/gc/designs/livepreview/amazon_dkblue_noto_email_v2016_ca-main._CB468775011_.png" width = "170" height="100" border=5>
+
+
 Amazon Robotics is aiming to create smarter, faster, and more consistent robots through automation to enhance the customers experience with the service. They use and research various technologies including autonomous mobile robots, sophisticated control software, language perception, power management, computer vision, depth sensing, machine learning, object recognition, and semantic understanding of commands. They focus on researching and developing their service in new areas through the use of new technology. 
 
 
@@ -107,6 +122,7 @@ Description:
 
 At the building, they work on infrastructure issues and design to enable more movement and efficiency in the workcells. The team works on advancing the workcells by working with sensors and other hardware. Amazon Robotics in Toronto is also working on solutions to the issues in the workcells using software. Co-op students will support in testing various Amazon Software
 
+<img src="https://www.waredock.com/wp-content/uploads/2019/08/Screenshot-2019-08-01-at-22.50.57.png" height="200" width="400" border=5>
 
 Requirements:
 * Currently enrolled in college/university for Computer Science, Engineering, or other similar degree
@@ -119,6 +135,7 @@ Have an interest for Robotics and taking part in clubs
 To apply or find more information about this co-op opportunity, [click here](https://www.google.com/search?q=robotics+coop+program&rlz=1C5CHFA_enCA1000CA1000&oq=robotics+coop+program&aqs=chrome..69i57.11584j0j4&sourceid=chrome&ie=UTF-8&ibp=htl;jobs&sa=X&ved=2ahUKEwiGz6jwzKT9AhWEkmoFHVwYAVEQkd0GegQIEhAB#fpstate=tldetail&htivrt=jobs&htiq=robotics+coop+program&htidocid=hrN-t5qpCBoAAAAAAAAAAA%3D%3D)
 
 ## **1.3 Experiential Learning**
+***
 ### **_Self Starter Projects_**
 * Buy robot building kits online or from any electronics stores.
 * Start with designing simple robots and move on to complex models as you gain more experience.
@@ -133,6 +150,9 @@ To apply or find more information about this co-op opportunity, [click here](htt
     * Robotics: Kinematics and Mathematical Foundations
     * Robotics Foundations I - Robot Modeling
     * Robotics Foundations II - Robot Control
+
+<img src="https://cdn.shopify.com/s/files/1/0306/6419/6141/articles/RVRKickHR-9546-1200x800-5b2df79.jpg?v=1634243143" width="400" height="250" border=5>
+
 ### **_Books and Articles_**
 Reading books and articles on robotics will help improve knowledge on the subject
 
@@ -162,6 +182,8 @@ Co-op/Internship:
 
 Robotic Process Automation Co-op/Intern for Nokia
 
+<img src="https://www.nokia.com/sites/default/files/styles/scale_720_no_crop/public/2022-03/NOKIA_LOGO_WHITE_HR.jpg" width="225" height="100" border=5>
+
 City: Ottawa
 
 Job Description:
@@ -185,12 +207,17 @@ To apply or find more information about this co-op opportunity, [click here](htt
 ### **_Improving Communication Skills_**
 Communication plays a key role in a workplace
 
+<img src="https://bestofsno.com/wp-content/uploads/2020/12/small-talk-900x675.jpg" width="300" height="170" border=5>
+
 You can practice ways to improve communication skills by:
 1. Practice listening to people and ask follow up questions as it shows 
 2. Learn to manage emotions as the message being conveyed might come out wrong when under the influence of strong emotions
 3. Practice speaking in a professional tone near friends to gain more confidence in your speaking skills
 4. Practice public speaking so that you can get used to talking to new people without getting nervous
 ### **_Learning about Agile Project Management_**
+
+<img src="https://assets.plan.io/images/blog/implementing-agile-project-management.png" width="400" height="250" border=5>
+
 To effectively complete a project, there needs to be teamwork. One way to successfully run a team is to follow the Agile Project Management method
 
 You can do this by performing the following:
@@ -200,8 +227,11 @@ You can do this by performing the following:
 * create epic and stories(a task and subgroups) for a project and assign them to team members
 
 ## **1.4 Real Jobs**
+***
 ### **_Entry Level Job_**
 Company: Swap Robotics
+
+<img src="https://static.wixstatic.com/media/510545_d2be6fc423eb4f06ad8dc7c5689ea0cc~mv2.png/v1/fill/w_1136,h_638,al_c/510545_d2be6fc423eb4f06ad8dc7c5689ea0cc~mv2.png" width="350" height="200">
 
 Salary: $70 000 - $75 000 per year
 
@@ -239,6 +269,8 @@ Experience with Linux-based operating systems
 ### **_Mid Level Job_**
 Company: The Headhunters
 
+<img src="https://www.theheadhunters.ca/wp-content/uploads/2020/03/logo.png">
+
 Salary: $80 000 - $110 000 per year
 
 City: Dundas, Ontario
@@ -267,7 +299,9 @@ Additional Skills/Experience:
 
 [Click here](https://www.glassdoor.ca/Job/robotics-software-engineer-ros-jobs-SRCH_KO0,30.htm) to apply or find more information about this job
 ### **_Senior Level Job_**
-Company: Axion Group Inc
+Company: Axiom Group Inc
+
+<img src="https://axiomgroup.ca/wp-content/uploads/2022/11/Axiom_Group_Brandmark_MAIN.png" width="350" height="200">
 
 Salary: $106 000 per year
 
@@ -290,4 +324,3 @@ Additional Skills/Experience:
 * Able to travel to US and Mexico
 
 [Click here](https://ca.indeed.com/jobs?q=Robotics+Engineer&l=Toronto%2C+ON&from=career&vjk=555aee2d01432a05) to apply or find more information about this job
-
