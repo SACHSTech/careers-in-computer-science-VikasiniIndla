@@ -182,7 +182,22 @@ Requirements/Skills:
 
 To apply or find more information about this co-op opportunity, [click here](https://ca.indeed.com/Co-Op-Student-Robotics-jobs?vjk=1a861a85c95cfdbe)
 
+### **_Improving Communication Skills_**
+Communication plays a key role in a workplace
 
+You can practice ways to improve communication skills by:
+1. Practice listening to people and ask follow up questions as it shows 
+2. Learn to manage emotions as the message being conveyed might come out wrong when under the influence of strong emotions
+3. Practice speaking in a professional tone near friends to gain more confidence in your speaking skills
+4. Practice public speaking so that you can get used to talking to new people without getting nervous
+### **_Learning about Agile Project Management_**
+To effectively complete a project, there needs to be teamwork. One way to successfully run a team is to follow the Agile Project Management method
+
+You can do this by performing the following:
+* Take courses to certify in Agile Project Management
+* Take initiation in group projects and apply the Agile Project Management method
+* Create a kanban board which assigns tasks and tracks the progress(Not Started, In Progress, Done)
+* create epic and stories(a task and subgroups) for a project and assign them to team members
 
 ## **1.4 Real Jobs**
 ### **_Entry Level Job_**
