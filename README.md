@@ -4,7 +4,9 @@
 ***
 ### **_Career Description_**
 Robotics engineers prototype, create, program and test machines. The machines created are used in the automotive, mining, space exploration manufacturing, servicing and other sectors. They work with engineers and project managers to develop the the design, maintain and fix the robots
+
 <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://images.ctfassets.net/wp1lcwdav1p1/6AEApg42DVbYFikb9VqNKE/eb9fc3f2a0f3a8d5ab793d955df91f2a/Stocksy_txpe0666ad4RLr200_Large_2205470.jpg?w=1500&h=680&q=60&fit=fill&f=faces&fm=jpg&fl=progressive&auto=format%2Ccompress&dpr=1&w=1000&h=" width="300" height="136" border=5>
+
 
 ### **_Responsibilities_**
 * Create robotic systems
@@ -324,3 +326,36 @@ Additional Skills/Experience:
 * Able to travel to US and Mexico
 
 [Click here](https://ca.indeed.com/jobs?q=Robotics+Engineer&l=Toronto%2C+ON&from=career&vjk=555aee2d01432a05) to apply or find more information about this job
+
+## <p style="text-align: center;">Works Cited
+“Best Robotics Books to Read in 2023.” Formant, 27 Jan. 2023, https://formant.io/news-and-blog/2022/05/05/community/best-robotics-books/. 
+
+Bika, Nikoletta. “Robotics Engineer Job Description.” Recruiting Resources: How to Recruit and Hire Better, 3 Feb. 2020, https://resources.workable.com/robotics-engineer-job-description#:~:text=A%20robotics%20engineer%20designs%20prototypes,to%20manufacture%20their%20robotic%20systems. 
+
+“Course Descriptions - Undergraduate Calendar 2023-2024.” Courses Mechatronics Engineering, https://ucalendar.uwaterloo.ca/2324/COURSE/course-MTE.html. 
+
+Eastwood, Brian. “6 Robotics Skills Essential for Industry Success.” Northeastern University Graduate Programs, 5 Apr. 2022, https://www.northeastern.edu/graduate/blog/robotics-skills/. 
+
+“Effective Communication: 6 Ways to Improve Communication Skills - 2023.” MasterClass, https://www.masterclass.com/articles/how-to-improve-your-communication-skills. 
+
+“Faculty of Engineering.” The Undergraduate Calendar, http://ugradcalendar.uwaterloo.ca/page/ENG-Mechatronics-Engineering. 
+
+Griffin, Joseph. “Easing into Agile Project Management: How to Get Started.” Northeastern University Graduate Programs, 6 Aug. 2021, https://www.northeastern.edu/graduate/blog/agile-project-management/. 
+
+“Mechanical and Mechatronics Engineering at the University of Waterloo.” YouTube, YouTube, 27 Sept. 2019, https://www.youtube.com/watch?v=Ibs1KGgma_o&amp;t=33s. 
+
+“Mechatronics Engineering.” Undergraduate Programs, 14 Oct. 2022, https://uwaterloo.ca/future-students/programs/mechatronics-engineering. 
+
+“More Signal, Less Noise.” Feedly, https://feedly.com/i/top/robotics-blogs. 
+
+Owen-Hill, Alex. “10 Essential Skills That All Good Roboticists Should Have.” 10 Essential Skills That All Good Roboticists Should Have, https://blog.robotiq.com/10-essential-skills-that-all-good-roboticists-have. 
+
+Owen-Hill, Alex. “12 Essential Blogs Featuring the Latest News on Robotics.” 12 Essential Blogs Featuring the Latest News on Robotics, https://blog.robotiq.com/12-essential-robotics-news-blogs. 
+
+Robotics Engineer Skills: Definition, Examples and Tips. https://www.indeed.com/career-advice/finding-a-job/robotics-engineer-skills. 
+
+Robotics Software Engineer Ros Jobs | Glassdoor. https://www.glassdoor.ca/Job/robotics-software-engineer-ros-jobs-SRCH_KO0,30.htm. 
+
+Salary: Robotics Engineer (February, 2023) | Glassdoor. https://www.glassdoor.com/Salaries/robotics-engineer-salary-SRCH_KO0,17.htm. 
+
+What Is Amazon? Company Culture, Mission, Values | Glassdoor. https://www.glassdoor.ca/Overview/Working-at-Amazon-EI_IE6036.11,17.htm. 
